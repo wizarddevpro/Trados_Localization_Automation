@@ -1,0 +1,6 @@
+pymupdf
+python-docx
+openpyxl
+lxml
+regex
+nltk

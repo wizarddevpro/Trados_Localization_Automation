@@ -1,0 +1,1075 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" version="1.2">
+  <file original="../input/sample.docx" datatype="x-sdlfilterframework2" source-language="en-US" target-language="en-US">
+    <body>
+      <trans-unit id="docx_s1" translate="yes">
+        <source>SAC but are part of the target population (once validated by the CATI interviewer using the validation procedures.</source>
+      </trans-unit>
+      <trans-unit id="docx_s2" translate="yes">
+        <source>If a respondent does not want to complete the</source>
+      </trans-unit>
+      <trans-unit id="docx_s3" translate="yes">
+        <source>survey by phone the interviewer can providing them with the Alternate NGES link so that they can complete it themselves.</source>
+      </trans-unit>
+      <trans-unit id="docx_s4" translate="yes">
+        <source>The CACM will take place in Iqaluit, Rankin Inlet and Cambridge Bay.</source>
+      </trans-unit>
+      <trans-unit id="docx_s5" translate="yes">
+        <source>Respondents will be provided with laptops, and they will be able to complete their survey via rEQ if they have a SAC or via the Alternate NGES if they do not have a SAC but part of our target population (as per validation procedures).</source>
+      </trans-unit>
+      <trans-unit id="docx_s6" translate="yes">
+        <source>See below for further details about the Alternate NGES link, CATI and the CACM.</source>
+      </trans-unit>
+      <trans-unit id="docx_s7" translate="yes">
+        <source>Any other edits in the NGES are “soft edits”.</source>
+      </trans-unit>
+      <trans-unit id="docx_s8" translate="yes">
+        <source>Most of these edits are application non-response edits.</source>
+      </trans-unit>
+      <trans-unit id="docx_s9" translate="yes">
+        <source>They will be triggered if a question is left blank or if there is an inconsistency between two answers.</source>
+      </trans-unit>
+      <trans-unit id="docx_s10" translate="yes">
+        <source>These edits can be passed by clicking ‘next’ without modifying the original answer to the question, if the respondent confirms that the answer is correct or refuses to answer a question.</source>
+      </trans-unit>
+      <trans-unit id="docx_s11" translate="yes">
+        <source>The Nunavut Government Employee Survey (NGES) is an online survey of all current Government of Nunavut (GN) and Government of Canada (GC) employees whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s12" translate="yes">
+        <source>The 2026 survey is conducted by Statistics Canada and is sponsored by Employment and Social Development Canada (ESDC).</source>
+      </trans-unit>
+      <trans-unit id="docx_s13" translate="yes">
+        <source>It was developed in collaboration with Nunavut Tunngavik Incorporated (NTI), the GN and Pilimmaksaivik, the Federal Centre for Excellence for Inuit Employment in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s14" translate="yes">
+        <source>The NGES allows employees to share their experiences and opinions on many issues related to their workplace, learning opportunities, training and career advancement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s15" translate="yes">
+        <source>The results of the survey will allow the Government of Nunavut and the Government of Canada to identify what is working well in each department and where improvements should be made.</source>
+      </trans-unit>
+      <trans-unit id="docx_s16" translate="yes">
+        <source>The results may help governments and Inuit organizations to develop and monitor Inuit Employment Plans, Pre-employment Training Plans to increase Inuit employment and support the advancement of Inuit working for government organizations in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s17" translate="yes">
+        <source>The information will be used for the Nunavut Inuit Labour Force Analysis (NILFA) and may also be used to help governments and Inuit organizations to find ways to increase Inuit employee hires in government to levels that are representative of the population, as per Article 23 of the Nunavut Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s18" translate="yes">
+        <source>New Collection strategy</source>
+      </trans-unit>
+      <trans-unit id="docx_s19" translate="yes">
+        <source>As was the case for the 2021 NGES, the Electronic Questionnaire (EQ), which we refer to as an rEQ (self-response electronic questionnaire) is available in English, French, Inuktitut and Inuinnaqtun for respondents who received a secure access code (SAC) via email.</source>
+      </trans-unit>
+      <trans-unit id="docx_s20" translate="yes">
+        <source>In addition, for 2026 NGES, an anonymous link (referred to as the “Alternate NGES link”) will also be available for respondents who do not have a SAC but are part of the target population.</source>
+      </trans-unit>
+      <trans-unit id="docx_s21" translate="yes">
+        <source>rEQ and the Alternate NGES link are available throughout the entire collection period.</source>
+      </trans-unit>
+      <trans-unit id="docx_s22" translate="yes">
+        <source>CATI (iEQ – Interviewer Electronic Questionnaire):</source>
+      </trans-unit>
+      <trans-unit id="docx_s23" translate="yes">
+        <source>Telephone interviews are introduced for the first time to the 2026 NGES and are used a month following the start of collection with people who are less likely to respond online, as well as in the middle and at the end of collection for non-response follow-up.</source>
+      </trans-unit>
+      <trans-unit id="docx_s24" translate="yes">
+        <source>For this type of collection mode, which we refer to as an iEQ (interviewer electronic questionnaire), the interviewers enter the respondents’ answers directly in the EQ.</source>
+      </trans-unit>
+      <trans-unit id="docx_s25" translate="yes">
+        <source>CATI DCC’s will also have a secondary responsibility of conducting the NGES via the Alternate NGES link for respondents who call in as they did not receive a SAC but are part of the target population (once validated by the CATI interviewer using the validation procedures (see further below)).</source>
+      </trans-unit>
+      <trans-unit id="docx_s26" translate="yes">
+        <source>If a respondent does not want to complete the survey by phone, the interviewer can provide them with the Alternate NGES link so that they can complete it themselves.</source>
+      </trans-unit>
+      <trans-unit id="docx_s27" translate="yes">
+        <source>Centralized Assisted Collection Method (CACM)</source>
+      </trans-unit>
+      <trans-unit id="docx_s28" translate="yes">
+        <source>For the 2026 NGES, a Centralized Assisted Collection Method (CACM) will be introduced to provide a centralized location for Government employees to fill out their survey and/or to receive assistance from Statistics Canada interviewers.</source>
+      </trans-unit>
+      <trans-unit id="docx_s29" translate="yes">
+        <source>This collection method has been introduced as the NGES is a Census of Government of Nunavut and Government of Canada employees whose assigned work location is in Nunavut, and in previous cycles, certain employment types (e.g: substitute teachers, casuals, relief workers) were difficult to reach by email or phone due to insufficient information on the frame.</source>
+      </trans-unit>
+      <trans-unit id="docx_s30" translate="yes">
+        <source>For this collection method, interviewers will have access to the CATI environment/list of respondents and will be on-site at a designated collection location in 3 communities in Nunavut (Iqaluit, Rankin Inlet and Cambridge Bay).</source>
+      </trans-unit>
+      <trans-unit id="docx_s31" translate="yes">
+        <source>At the CACM location, interviewers will be available to help respondents find their SAC and to answer any survey related questions (where required).</source>
+      </trans-unit>
+      <trans-unit id="docx_s32" translate="yes">
+        <source>Laptops and internet will be made available for respondents to fill out their survey autonomously (rEQ) using their SAC, or through the Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s33" translate="yes">
+        <source>The Alternate NGES link is provided to the respondent by the interviewer only if the respondent does not have a SAC assigned to them (as confirmed by the interviewer following their verification in their system) and if the interviewer can confirm that they are part of the NGES target population using the validation procedure.</source>
+      </trans-unit>
+      <trans-unit id="docx_s34" translate="yes">
+        <source>Validation procedure is as follows:</source>
+      </trans-unit>
+      <trans-unit id="docx_s35" translate="yes">
+        <source>The StatCan interviewer will determine if a respondent is on the frame by asking the employee for one or more of the following: first name, last name, work email address, or work telephone number.</source>
+      </trans-unit>
+      <trans-unit id="docx_s36" translate="yes">
+        <source>Then, the interviewer will confirm they have identified the correct case by verifying the employee’s date of birth, which will be available in the Supplemental Survey Information (SSI) of the Collection Management Portal.</source>
+      </trans-unit>
+      <trans-unit id="docx_s37" translate="yes">
+        <source>If they are matched on the frame, they will be provided their SAC.</source>
+      </trans-unit>
+      <trans-unit id="docx_s38" translate="yes">
+        <source>If they do not appear on the frame, they will be eligible to participate via Alternate NGES link if:</source>
+      </trans-unit>
+      <trans-unit id="docx_s39" translate="yes">
+        <source>They are current employees of the GN and GC whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s40" translate="yes">
+        <source>They do not already have a secure access code (SAC).</source>
+      </trans-unit>
+      <trans-unit id="docx_s41" translate="yes">
+        <source>The interviewer can use the Alternate NGES link to complete the questionnaire with the respondent, or the link can be sent to the respondent so that they can complete it themselves.</source>
+      </trans-unit>
+      <trans-unit id="docx_s42" translate="yes">
+        <source>In situations where the respondent calls the CATI respondent relations line, is preferred that the interviewer completes the questionnaire with the respondent rather than sending the Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s43" translate="yes">
+        <source>For the CACM location, the interviewer can provide the link and assistance where required.</source>
+      </trans-unit>
+      <trans-unit id="docx_s44" translate="yes">
+        <source>The first 7 questions of the questionnaire will determine if the respondent is truly in scope or not for the survey (e.g: What is your name?, What is your gender?, What is your date of birth?, What is your age group?, Are you Inuk?, Are you an Inuk enrolled under the Nunavut Agreement?, Who is your current territorial or federal government employer?</source>
+      </trans-unit>
+      <trans-unit id="docx_s45" translate="yes">
+        <source>).</source>
+      </trans-unit>
+      <trans-unit id="docx_s46" translate="yes">
+        <source>If the respondent selects “I am no longer employed in any of the above government organizations in Nunavut” they will then be sent to the “end of survey”.</source>
+      </trans-unit>
+      <trans-unit id="docx_s47" translate="yes">
+        <source>New questions</source>
+      </trans-unit>
+      <trans-unit id="docx_s48" translate="yes">
+        <source>New questions inquire about staff housing, mental health, childcare, Inuit Employment Plans (IEPs), and Inuktitut and Inuinnaqtun in the workplace.</source>
+      </trans-unit>
+      <trans-unit id="docx_s49" translate="yes">
+        <source>Confirmation screens</source>
+      </trans-unit>
+      <trans-unit id="docx_s50" translate="yes">
+        <source>For the 2026 NGES we have added a confirmation screen in 3 places within the survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s51" translate="yes">
+        <source>The confirmation screen will allow the respondent to correct or confirm the response that they have provided.</source>
+      </trans-unit>
+      <trans-unit id="docx_s52" translate="yes">
+        <source>If they press Previous, they can correct their response.</source>
+      </trans-unit>
+      <trans-unit id="docx_s53" translate="yes">
+        <source>If they press Next to confirm the response, they will be sent to the end of the survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s54" translate="yes">
+        <source>Question 3 “What is your date of birth” – if the date of birth entered is 14 years of age or under the respondent will receive the following confirmation screen:</source>
+      </trans-unit>
+      <trans-unit id="docx_s55" translate="yes">
+        <source>Question 4 “What is your age group” – if the respondent selects 14 years or younger as their age group, they will receive the following confirmation screen:</source>
+      </trans-unit>
+      <trans-unit id="docx_s56" translate="yes">
+        <source>Question 7 “Who is your current territorial or federal government employer” – if the respondent leaves this question blank and they bypass the soft edit that is triggered, they will receive the following confirmation screen:</source>
+      </trans-unit>
+      <trans-unit id="docx_s57" translate="yes">
+        <source>If the respondent is sent to the end of the survey, they will receive the following screen:</source>
+      </trans-unit>
+      <trans-unit id="docx_s58" translate="yes">
+        <source>Once they hit submit, they will exit the survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s59" translate="yes">
+        <source>This survey will collect data from all current Government of Nunavut and Government of Canada employees whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s60" translate="yes">
+        <source>Questions will be asked about their experiences in the workplace, including their interest in learning, training, and career advancement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s61" translate="yes">
+        <source>The information will be used to inform the Nunavut Inuit Labour Force Analysis (NILFA) and will also be used by governments and Inuit organizations to find ways to increase Inuit employment in government to levels that are representative of the population, as per Article 23 of the Nunavut Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s62" translate="yes">
+        <source>Results from the NGES are used by governments and Inuit organizations to develop and monitor Inuit Employment Plans and Pre-employment Training Plans to increase Inuit employment and support the advancement of Inuit working for government organizations in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s63" translate="yes">
+        <source>A detailed analysis of the 2026 NGES will be incorporated into future Nunavut Inuit Labour Force Analysis (NILFA) research.</source>
+      </trans-unit>
+      <trans-unit id="docx_s64" translate="yes">
+        <source>Interviewer time should be charged to the following project codes:</source>
+      </trans-unit>
+      <trans-unit id="docx_s65" translate="yes">
+        <source>The target response rate for the 2026 NGES is 45%.</source>
+      </trans-unit>
+      <trans-unit id="docx_s66" translate="yes">
+        <source>The NGES is voluntary and is collected under the voluntary provisions of the Statistics Act.</source>
+      </trans-unit>
+      <trans-unit id="docx_s67" translate="yes">
+        <source>Interview length varies but on average will take 30 minutes to complete.</source>
+      </trans-unit>
+      <trans-unit id="docx_s68" translate="yes">
+        <source>Total sample size is expected to be 7,500 cases.</source>
+      </trans-unit>
+      <trans-unit id="docx_s69" translate="yes">
+        <source>The target population for the NGES includes current employees of the Government of Nunavut (GN) and Government of Canada (GC) whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s70" translate="yes">
+        <source>The survey population for the Government of Nunavut was identified from lists of employees provided by the Nunavut Bureau of Statistics.</source>
+      </trans-unit>
+      <trans-unit id="docx_s71" translate="yes">
+        <source>For the Government of Canada, administrative files were used and updated from lists received directly from various Government of Canada departments.</source>
+      </trans-unit>
+      <trans-unit id="docx_s72" translate="yes">
+        <source>Statistics Canada has signed an agreement with Nunavut Tunngavik Incorporated (NTI) and the Nunavut Bureau of Statistics (NBS) to share the information survey participants provide on this survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s73" translate="yes">
+        <source>No identifiable information such as respondents’ name, address or phone number will be provided.</source>
+      </trans-unit>
+      <trans-unit id="docx_s74" translate="yes">
+        <source>NTI and the NBS have agreed to keep this information confidential and use it only for statistical purposes.</source>
+      </trans-unit>
+      <trans-unit id="docx_s75" translate="yes">
+        <source>The information will be used to inform the Nunavut Inuit Labour Force Analysis and will also be used by governments and Inuit organizations to find ways to increase Inuit employment in government to levels that are representative of the population, as per Article 23 of the Nunavut Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s76" translate="yes">
+        <source>This section presents the list of non-official languages in which the questionnaire is available.</source>
+      </trans-unit>
+      <trans-unit id="docx_s77" translate="yes">
+        <source>The EQ is available in Inuktitut (South Baffin dialect) and in Inuinnaqtun.</source>
+      </trans-unit>
+      <trans-unit id="docx_s78" translate="yes">
+        <source>Introductory letters (emails and reminders) and promotional materials are also available in Inuktitut (South Baffin dialect) and in Innuinaqtun.</source>
+      </trans-unit>
+      <trans-unit id="docx_s79" translate="yes">
+        <source>The table below presents the various dates for the NGES.</source>
+      </trans-unit>
+      <trans-unit id="docx_s80" translate="yes">
+        <source>Nunavut Government Employee Survey will be collected using the following methods:</source>
+      </trans-unit>
+      <trans-unit id="docx_s81" translate="yes">
+        <source>Self-enumeration (rEQ – Respondent Electronic Questionnaire) including Alternate NGES link</source>
+      </trans-unit>
+      <trans-unit id="docx_s82" translate="yes">
+        <source>CATI collection (iEQ – Interviewer Electronic Questionnaire) including NRFU</source>
+      </trans-unit>
+      <trans-unit id="docx_s83" translate="yes">
+        <source>Centralized assisted collection method through the CATI environment (CACM)</source>
+      </trans-unit>
+      <trans-unit id="docx_s84" translate="yes">
+        <source>More specifically, the collection strategy is a combination of multimode e-questionnaire self-response (rEQ – Respondent Electronic Questionnaire) and interview assisted (iEQ) using CATI, which includes Non-Response Follow-Up (NRFU) calls.</source>
+      </trans-unit>
+      <trans-unit id="docx_s85" translate="yes">
+        <source>CATI interviewers will also have a secondary responsibility of conducting the NGES via the Alternate NGES link for respondents who call in as they did not receive a</source>
+      </trans-unit>
+      <trans-unit id="docx_s86" translate="yes">
+        <source>Answer</source>
+      </trans-unit>
+      <trans-unit id="docx_s87" translate="yes">
+        <source>What is the Alternate NGES link?</source>
+      </trans-unit>
+      <trans-unit id="docx_s88" translate="yes">
+        <source>The Alternate NGES link is an EQ available in English, French, Inuktitut and Inuinnaqtun for respondents who do not have a SAC assigned to them (as confirmed by the interviewer following their verification in their system) but are part of the target population.</source>
+      </trans-unit>
+      <trans-unit id="docx_s89" translate="yes">
+        <source>It’s a mode of collection known internally at STC as the “Anonymous link”, but for the NGES, it is referred to as the Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s90" translate="yes">
+        <source>What is the Centralized Assisted Collection Method (CACM)?</source>
+      </trans-unit>
+      <trans-unit id="docx_s91" translate="yes">
+        <source>The CACM refers to designated locations in Nunavut (Iqaluit, Rankin Inlet and Cambridge Bay) where respondents can come fill out the NGES via the Portal if they have a SAC or the Alternate NGES link (if they do not have a SAC but are part of the target population) using laptops provided by Statistics Canada.</source>
+      </trans-unit>
+      <trans-unit id="docx_s92" translate="yes">
+        <source>Statistics Canada interviewers will be present at these locations to provide assistance.</source>
+      </trans-unit>
+      <trans-unit id="docx_s93" translate="yes">
+        <source>Why do we need the Alternate NGES link and how will it be provided?</source>
+      </trans-unit>
+      <trans-unit id="docx_s94" translate="yes">
+        <source>The NGES is a Census of all Government of Nunavut and Government of Canada employees whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s95" translate="yes">
+        <source>The Alternate NGES link was introduced in order to capture respondents who may not be on the NGES frame (and did not have an assigned SAC) but who are part of the target population.</source>
+      </trans-unit>
+      <trans-unit id="docx_s96" translate="yes">
+        <source>If an individual has not received a SAC and believe that they are part of the target population, they can call the StatCan CATI respondent relations line (1-833-977-8287).</source>
+      </trans-unit>
+      <trans-unit id="docx_s97" translate="yes">
+        <source>The CATI agent will first validate their information using the validation procedure.</source>
+      </trans-unit>
+      <trans-unit id="docx_s98" translate="yes">
+        <source>If the CATI agent can find the individual in their list, the individual will be provided with the SAC and can complete the survey either themselves online or with the interviewer via iEQ.</source>
+      </trans-unit>
+      <trans-unit id="docx_s99" translate="yes">
+        <source>Not all individuals on the survey frame have an email address therefore, it is possible that an individual may have not received an invitation to participate in the NGES but may have a SAC.</source>
+      </trans-unit>
+      <trans-unit id="docx_s100" translate="yes">
+        <source>If the CATI agent is unable to find the individual on their list (following the validation procedure) and therefore, they do not have a SAC, the CATI agent will provide the individual with the option of conducting the interview with the individual using the Alternate NGES link or they can choose to send them the Alternate NGES link to fill the survey out by themselves.</source>
+      </trans-unit>
+      <trans-unit id="docx_s101" translate="yes">
+        <source>Individuals can also present themselves at a CACM location and either receive their SAC or if eligible, the Alternate NGES link from a StatCan interviewer that will be present at these locations.</source>
+      </trans-unit>
+      <trans-unit id="docx_s102" translate="yes">
+        <source>Why do we need CACM?</source>
+      </trans-unit>
+      <trans-unit id="docx_s103" translate="yes">
+        <source>The CACM will provide survey participants with a centralized location to fill out their survey if they cannot do so at work or if they require a laptop and internet access.</source>
+      </trans-unit>
+      <trans-unit id="docx_s104" translate="yes">
+        <source>Interviewers will be available to help survey participants find their SAC, or to answer any survey related questions.</source>
+      </trans-unit>
+      <trans-unit id="docx_s105" translate="yes">
+        <source>If survey participants do not have a SAC and the interviewer cannot find the individual in their system, the interviewer will provide the respondent with an Alternate NGES link at the CACM location.</source>
+      </trans-unit>
+      <trans-unit id="docx_s106" translate="yes">
+        <source>How will the Alternate NGES link be promoted?</source>
+      </trans-unit>
+      <trans-unit id="docx_s107" translate="yes">
+        <source>The Alternate NGES link will only be shared by StatCan interviewers.</source>
+      </trans-unit>
+      <trans-unit id="docx_s108" translate="yes">
+        <source>However, in order to promote the survey and reach all GC and GN employees working in Nunavut, GC and GN champions will distribute communications bulletins to internal and external networks across Nunavut to target hard-to-reach respondents.</source>
+      </trans-unit>
+      <trans-unit id="docx_s109" translate="yes">
+        <source>These communications materials will inform the respondent that if they did not receive a SAC, they should call the CATI respondent relation telephone line or present themselves at a Centralized Assisted Collection Method location.</source>
+      </trans-unit>
+      <trans-unit id="docx_s110" translate="yes">
+        <source>If respondents do not have a SAC and the interviewer cannot find the respondent in their system, the interviewer will provide the respondent with an Alternate NGES link at the CACM location.</source>
+      </trans-unit>
+      <trans-unit id="docx_s111" translate="yes">
+        <source>How will the StatCan interviewer decide if an employee is eligible to participate via Alternate NGES link?</source>
+      </trans-unit>
+      <trans-unit id="docx_s112" translate="yes">
+        <source>The StatCan interviewer will determine if a respondent is on the frame by asking the employee for one or more of the following: first name, last name, work email address, or work telephone number.</source>
+      </trans-unit>
+      <trans-unit id="docx_s113" translate="yes">
+        <source>Then, the interviewer will confirm they have identified the correct case by verifying the employee’s date of birth, which will be available in the Supplemental Survey Information (SSI) of the Collection Management Portal.</source>
+      </trans-unit>
+      <trans-unit id="docx_s114" translate="yes">
+        <source>If they are matched on the frame, they will be provided their SAC.</source>
+      </trans-unit>
+      <trans-unit id="docx_s115" translate="yes">
+        <source>If they do not appear on the frame, they will be eligible to participate via Alternate NGES link if:</source>
+      </trans-unit>
+      <trans-unit id="docx_s116" translate="yes">
+        <source>They are current employees of the GN and GC whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s117" translate="yes">
+        <source>They do not already have a SAC</source>
+      </trans-unit>
+      <trans-unit id="docx_s118" translate="yes">
+        <source>The interviewer can use the Alternate NGES link to complete the questionnaire with the respondent, or the link can be sent to the respondent so that they can complete it themselves.</source>
+      </trans-unit>
+      <trans-unit id="docx_s119" translate="yes">
+        <source>In situations where the respondent calls the CATI respondent relations line, is preferred that the interviewer completes the questionnaire with the respondent rather than sending the Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s120" translate="yes">
+        <source>For the CACM location, the interviewer can provide the link and assistance where required.</source>
+      </trans-unit>
+      <trans-unit id="docx_s121" translate="yes">
+        <source>The first 7 questions of the questionnaire will determine if the respondent is truly in scope or not for the survey (e.g.</source>
+      </trans-unit>
+      <trans-unit id="docx_s122" translate="yes">
+        <source>: What is your name?, What is your gender?, What is your date of birth?, What is your age group?, Are you Inuk?, Are you an Inuk enrolled under the Nunavut Agreement?, Who is your current territorial or federal government employer?</source>
+      </trans-unit>
+      <trans-unit id="docx_s123" translate="yes">
+        <source>).</source>
+      </trans-unit>
+      <trans-unit id="docx_s124" translate="yes">
+        <source>If the respondent selects “I am no longer employed in any of the above government organizations in Nunavut” they will then be sent to the “end of survey”.</source>
+      </trans-unit>
+      <trans-unit id="docx_s125" translate="yes">
+        <source>Do participants who are eligible to fill out the survey via Alternate NGES link have the option to be sent a link to fill the survey out by themselves?</source>
+      </trans-unit>
+      <trans-unit id="docx_s126" translate="yes">
+        <source>StatCan’s preference is for the interviewer to fill out the survey with the respondent, rather than provide them with the link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s127" translate="yes">
+        <source>This will ensure that the survey gets completed on the spot and that the interviewer can answer any questions that may come up.</source>
+      </trans-unit>
+      <trans-unit id="docx_s128" translate="yes">
+        <source>Most StatCan surveys do not have an Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s129" translate="yes">
+        <source>Typically, an interviewer would not go off their CMP device to hop in the "regular" internet to complete a survey for a respondent.</source>
+      </trans-unit>
+      <trans-unit id="docx_s130" translate="yes">
+        <source>Participants will be given this option for the NGES, but it is outside of the normal procedure.</source>
+      </trans-unit>
+      <trans-unit id="docx_s131" translate="yes">
+        <source>What are some reasons an eligible employee may not have received an invitation email to the survey?</source>
+      </trans-unit>
+      <trans-unit id="docx_s132" translate="yes">
+        <source>There are several reasons that an employee may not have received a link:</source>
+      </trans-unit>
+      <trans-unit id="docx_s133" translate="yes">
+        <source>They were not included in their department’s Human Resources System at the time of the cut-off date.</source>
+      </trans-unit>
+      <trans-unit id="docx_s134" translate="yes">
+        <source>They may not be in the Human Resources System because they are a substitute teacher, relief worker or casual employee.</source>
+      </trans-unit>
+      <trans-unit id="docx_s135" translate="yes">
+        <source>They moved workplaces around the time the employee lists were created.</source>
+      </trans-unit>
+      <trans-unit id="docx_s136" translate="yes">
+        <source>They do not have a work email or are unable to access it.</source>
+      </trans-unit>
+      <trans-unit id="docx_s137" translate="yes">
+        <source>The communication strategy will include survey promotion by StatCan such as social media campaign (amplified by NILFA Technical Working Group (NTWG) survey partners GN, Cannor and ESDC), PSAs in Nunavut hamlets, stakeholder engagement in Nunavut (possibility for radio, newspaper and tv) and the use of GN and GC champions (as determined by the NTWG).</source>
+      </trans-unit>
+      <trans-unit id="docx_s138" translate="yes">
+        <source>[All social media is reviewed by Communications Division.]</source>
+      </trans-unit>
+      <trans-unit id="docx_s139" translate="yes">
+        <source>The Nunavut Government Employee Survey (NGES) is an online survey of all current Government of Nunavut (GN) and Government of Canada (GC) employees whose assigned work location is in Nunavut and who were working at the time of survey completion</source>
+      </trans-unit>
+      <trans-unit id="docx_s140" translate="yes">
+        <source>The 2026 survey is conducted by Statistics Canada and is sponsored by Employment and Social Development Canada (ESDC).</source>
+      </trans-unit>
+      <trans-unit id="docx_s141" translate="yes">
+        <source>It was developed in collaboration with Nunavut Tunngavik Incorporated (NTI), the GN and Pilimmaksaivik, the Federal Centre for Excellence for Inuit Employment in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s142" translate="yes">
+        <source>The 2026 NGES is the third cycle of this survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s143" translate="yes">
+        <source>The first was completed in 2016 and second in 2021.</source>
+      </trans-unit>
+      <trans-unit id="docx_s144" translate="yes">
+        <source>The NGES asks questions about experiences in the workplace, including training, career advancement, hiring, Inuit Societal Values and Inuktut in the workplace.</source>
+      </trans-unit>
+      <trans-unit id="docx_s145" translate="yes">
+        <source>The survey data will be used to inform the Nunavut Inuit Labour Force Analysis (NILFA) and will also be used by governments and Inuit organizations to find ways to increase Inuit employment in government to levels that are representative of the population, as per Article 23 of the Nunavut Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s146" translate="yes">
+        <source>Where can I find results of the 2026 NGES?</source>
+      </trans-unit>
+      <trans-unit id="docx_s147" translate="yes">
+        <source>Statistics Canada will publish highlights of the results of the 2026 NGES on our website.</source>
+      </trans-unit>
+      <trans-unit id="docx_s148" translate="yes">
+        <source>A microdata file will be made available in 2027.</source>
+      </trans-unit>
+      <trans-unit id="docx_s149" translate="yes">
+        <source>An announcement will appear on Statistics Canada’s website.</source>
+      </trans-unit>
+      <trans-unit id="docx_s150" translate="yes">
+        <source>In addition, results will be incorporated into future Nunavut Inuit Labour Force Analysis (NILFA) research.</source>
+      </trans-unit>
+      <trans-unit id="docx_s151" translate="yes">
+        <source>For further information regarding the NILFA, contact ESDC.NILFA-APAIN.EDSC@HRSDC-RHDCC.GC.CA</source>
+      </trans-unit>
+      <trans-unit id="docx_s152" translate="yes">
+        <source>The survey collection will take place between January 5 and April 3, 2026.</source>
+      </trans-unit>
+      <trans-unit id="docx_s153" translate="yes">
+        <source>The NGES will be sent to GN and GC employees whose assigned work location is in Nunavut and who were working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s154" translate="yes">
+        <source>This corresponds to approximately 7,500 employees.</source>
+      </trans-unit>
+      <trans-unit id="docx_s155" translate="yes">
+        <source>All employees of the Government of Nunavut (GN) and the Government of Canada (GC) whose assigned work location is in Nunavut will be invited to take part in the survey through email invitations.</source>
+      </trans-unit>
+      <trans-unit id="docx_s156" translate="yes">
+        <source>Le gouvernement du Nunavut et le gouvernement du Canada fourniront à Statistique Canada la liste des adresses électroniques professionnelles de leurs employés.</source>
+      </trans-unit>
+      <trans-unit id="docx_s157" translate="yes">
+        <source>Statistique Canada enverra ensuite à chacun une invitation comportant un lien pour accéder au questionnaire de l'enquête, à remplir en ligne au travail, en inuktitut, inuinnaqtun, français ou anglais.</source>
+      </trans-unit>
+      <trans-unit id="docx_s158" translate="yes">
+        <source>What kinds of questions are in the survey?</source>
+      </trans-unit>
+      <trans-unit id="docx_s159" translate="yes">
+        <source>The survey includes questions about:</source>
+      </trans-unit>
+      <trans-unit id="docx_s160" translate="yes">
+        <source>current and previous government employment</source>
+      </trans-unit>
+      <trans-unit id="docx_s161" translate="yes">
+        <source>government housing</source>
+      </trans-unit>
+      <trans-unit id="docx_s162" translate="yes">
+        <source>relocating for work</source>
+      </trans-unit>
+      <trans-unit id="docx_s163" translate="yes">
+        <source>interview for your current job and overall hiring process</source>
+      </trans-unit>
+      <trans-unit id="docx_s164" translate="yes">
+        <source>language fluency and languages used at work</source>
+      </trans-unit>
+      <trans-unit id="docx_s165" translate="yes">
+        <source>interest in a permanent job</source>
+      </trans-unit>
+      <trans-unit id="docx_s166" translate="yes">
+        <source>employment plans</source>
+      </trans-unit>
+      <trans-unit id="docx_s167" translate="yes">
+        <source>formal education and employer support</source>
+      </trans-unit>
+      <trans-unit id="docx_s168" translate="yes">
+        <source>job-related training</source>
+      </trans-unit>
+      <trans-unit id="docx_s169" translate="yes">
+        <source>learning activities at work</source>
+      </trans-unit>
+      <trans-unit id="docx_s170" translate="yes">
+        <source>Inuit employment plans (IEPs)</source>
+      </trans-unit>
+      <trans-unit id="docx_s171" translate="yes">
+        <source>participation in the hiring process</source>
+      </trans-unit>
+      <trans-unit id="docx_s172" translate="yes">
+        <source>mental health in the workplace</source>
+      </trans-unit>
+      <trans-unit id="docx_s173" translate="yes">
+        <source>suggestions for increasing Inuit employment in government.</source>
+      </trans-unit>
+      <trans-unit id="docx_s174" translate="yes">
+        <source>All current GN and GC employees whose assigned work location is in Nunavut and who were working at the time of survey completion can participate.</source>
+      </trans-unit>
+      <trans-unit id="docx_s175" translate="yes">
+        <source>Indeterminate, term, contract, seasonal, student, casual employees, relief workers and substitute teachers can participate in the NGES.</source>
+      </trans-unit>
+      <trans-unit id="docx_s176" translate="yes">
+        <source>Employees who are on leave throughout the collection period are excluded from the survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s177" translate="yes">
+        <source>What if I work from a location outside Nunavut?</source>
+      </trans-unit>
+      <trans-unit id="docx_s178" translate="yes">
+        <source>You can complete the survey only if you work for the Government of Nunavut or the Government of Canada and your assigned work location is in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s179" translate="yes">
+        <source>You must be working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s180" translate="yes">
+        <source>What if I am a seasonal worker and want to participate but live in Nunavut for only part of the year?</source>
+      </trans-unit>
+      <trans-unit id="docx_s181" translate="yes">
+        <source>You can participate in the NGES if you work for the Government of Nunavut or Government of Canada and your assigned work location is in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s182" translate="yes">
+        <source>You must be working at the time of survey completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s183" translate="yes">
+        <source>What if I am on</source>
+      </trans-unit>
+      <trans-unit id="docx_s184" translate="yes">
+        <source>parental leave during the collection period?</source>
+      </trans-unit>
+      <trans-unit id="docx_s185" translate="yes">
+        <source>You cannot participate in the survey if you are on parental leave during the entire duration of the collection period,</source>
+      </trans-unit>
+      <trans-unit id="docx_s186" translate="yes">
+        <source>However, you can participate if you are actively working at any point during the collection period.</source>
+      </trans-unit>
+      <trans-unit id="docx_s187" translate="yes">
+        <source>Please contact Statistics Canada by telephone at 1-833-977-8287.</source>
+      </trans-unit>
+      <trans-unit id="docx_s188" translate="yes">
+        <source>Service is available in English and French, seven days a week, including evenings (except holidays).</source>
+      </trans-unit>
+      <trans-unit id="docx_s189" translate="yes">
+        <source>We realize that some questions are personal, but keep in mind that we get many answers from many people.</source>
+      </trans-unit>
+      <trans-unit id="docx_s190" translate="yes">
+        <source>Ces réponses sont regroupées et servent à produire des statistiques globales.</source>
+      </trans-unit>
+      <trans-unit id="docx_s191" translate="yes">
+        <source>Nous ne divulguons aucun renseignement qui permettrait d'identifier une personne.</source>
+      </trans-unit>
+      <trans-unit id="docx_s192" translate="yes">
+        <source>The 2026 NGES questionnaire content was developed by the NILFA Technical Working Group (NTWG).</source>
+      </trans-unit>
+      <trans-unit id="docx_s193" translate="yes">
+        <source>Members of this collaborative group include representatives from Nunavut Tunngavik Incorporated (NTI), the Government of Nunavut (GN), Pilimmaksaivik, Employment and Social Development Canada and Statistics Canada.</source>
+      </trans-unit>
+      <trans-unit id="docx_s194" translate="yes">
+        <source>Questionnaires were tested with Government of Nunavut and Government of Canada employees.</source>
+      </trans-unit>
+      <trans-unit id="docx_s195" translate="yes">
+        <source>The NTWG helps Statistics Canada promote the survey and highlight the importance of participating in order to obtain complete and accurate information to inform programs and policies for Article 23 of the Nunavut Agreement purposes.</source>
+      </trans-unit>
+      <trans-unit id="docx_s196" translate="yes">
+        <source>Once you access the survey online, you will be able to select the language.</source>
+      </trans-unit>
+      <trans-unit id="docx_s197" translate="yes">
+        <source>The survey is conducted by Statistics Canada and is sponsored by Employment and Social Development Canada (ESDC).</source>
+      </trans-unit>
+      <trans-unit id="docx_s198" translate="yes">
+        <source>Statistics Canada will publish highlights of the results of the 2026 NGES on our website in spring/summer 2027.</source>
+      </trans-unit>
+      <trans-unit id="docx_s199" translate="yes">
+        <source>An announcement will appear on Statistics Canada’s website.</source>
+      </trans-unit>
+      <trans-unit id="docx_s200" translate="yes">
+        <source>In addition, results will be incorporated into future Nunavut Inuit Labour Force Analysis (NILFA) research.</source>
+      </trans-unit>
+      <trans-unit id="docx_s201" translate="yes">
+        <source>For further information regarding the NILFA, contact ESDC.NILFA-APAIN.EDSC@HRSDC-RHDCC.GC.CA.</source>
+      </trans-unit>
+      <trans-unit id="docx_s202" translate="yes">
+        <source>Statistics Canada</source>
+      </trans-unit>
+      <trans-unit id="docx_s203" translate="yes">
+        <source>Telephone: 1-877-949-9492 (English and French)</source>
+      </trans-unit>
+      <trans-unit id="docx_s204" translate="yes">
+        <source>Email: infostats@statcan.gc.ca (English and French)</source>
+      </trans-unit>
+      <trans-unit id="docx_s205" translate="yes">
+        <source>Website: www.statcan.gc.ca/NGES</source>
+      </trans-unit>
+      <trans-unit id="docx_s206" translate="yes">
+        <source>Nunavut Bureau of Statistics</source>
+      </trans-unit>
+      <trans-unit id="docx_s207" translate="yes">
+        <source>Telephone: 1-867-473-2660 (Inuktitut and English) 1-867-475-6016 (English)</source>
+      </trans-unit>
+      <trans-unit id="docx_s208" translate="yes">
+        <source>Email: statsbureau@gov.nu.ca (Inuktitut and English)</source>
+      </trans-unit>
+      <trans-unit id="docx_s209" translate="yes">
+        <source>Yes, if you enter the survey with your unique secure access code (SAC) there is a ‘Save and finish later’ button on each page of the electronic questionnaire.</source>
+      </trans-unit>
+      <trans-unit id="docx_s210" translate="yes">
+        <source>You will be required to create a password.</source>
+      </trans-unit>
+      <trans-unit id="docx_s211" translate="yes">
+        <source>Further instructions are provided in the questionnaire.</source>
+      </trans-unit>
+      <trans-unit id="docx_s212" translate="yes">
+        <source>The NGES collects data from all current Government of Nunavut and Government of Canada employees whose assigned work location is in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s213" translate="yes">
+        <source>Employees are considered in scope if they are working at time of collection.</source>
+      </trans-unit>
+      <trans-unit id="docx_s214" translate="yes">
+        <source>If a respondent does not meet these requirements, they will flow out of scope and the case should be coded 300 – out of scope.</source>
+      </trans-unit>
+      <trans-unit id="docx_s215" translate="yes">
+        <source>Out of scope outcome codes are available when the survey is suspended by an interviewer.</source>
+      </trans-unit>
+      <trans-unit id="docx_s216" translate="yes">
+        <source>The following codes are available:</source>
+      </trans-unit>
+      <trans-unit id="docx_s217" translate="yes">
+        <source>320 – Already interviewed for survey</source>
+      </trans-unit>
+      <trans-unit id="docx_s218" translate="yes">
+        <source>321 – Deceased</source>
+      </trans-unit>
+      <trans-unit id="docx_s219" translate="yes">
+        <source>326 – Not eligible due to age</source>
+      </trans-unit>
+      <trans-unit id="docx_s220" translate="yes">
+        <source>369 – Institutionalized for more than six months</source>
+      </trans-unit>
+      <trans-unit id="docx_s221" translate="yes">
+        <source>Due to the nature of the questions asked in this survey, there will be no proxy interviews allowed.</source>
+      </trans-unit>
+      <trans-unit id="docx_s222" translate="yes">
+        <source>Partial interviews are interviews in which respondents answer at least one survey question but choose not to answer every question on the questionnaire.</source>
+      </trans-unit>
+      <trans-unit id="docx_s223" translate="yes">
+        <source>Be advised that information from partially completed or unsaved questionnaires may be retained and used for statistical and research purposes.</source>
+      </trans-unit>
+      <trans-unit id="docx_s224" translate="yes">
+        <source>Refer to supplementary document presenting the list of available outcome codes for the survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s225" translate="yes">
+        <source>Common edits</source>
+      </trans-unit>
+      <trans-unit id="docx_s226" translate="yes">
+        <source>There are 3 hard edits in the NGES.</source>
+      </trans-unit>
+      <trans-unit id="docx_s227" translate="yes">
+        <source>These edits are triggered if:</source>
+      </trans-unit>
+      <trans-unit id="docx_s228" translate="yes">
+        <source>The respondent does not provide a first and last name.</source>
+      </trans-unit>
+      <trans-unit id="docx_s229" translate="yes">
+        <source>This hard edit only fires in the Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s230" translate="yes">
+        <source>*Note that if accessing the link through the Portal using a SAC there is no edit as the first and last name will be prefilled and if the first name and/or last name are removed, the respondent will be able to continue without entering any information.</source>
+      </trans-unit>
+      <trans-unit id="docx_s231" translate="yes">
+        <source>The respondent did not provide their date of birth (year, month, day).</source>
+      </trans-unit>
+      <trans-unit id="docx_s232" translate="yes">
+        <source>This hard edit only fires in the Alternate NGES link.</source>
+      </trans-unit>
+      <trans-unit id="docx_s233" translate="yes">
+        <source>*Note that if accessing the link through the Portal using a SAC and any of the fields for the date of birth are left empty, this edit will be a soft edit and it will be possible to continue without entering any information.</source>
+      </trans-unit>
+      <trans-unit id="docx_s234" translate="yes">
+        <source>The respondent enters more than three responses in question 100.</source>
+      </trans-unit>
+      <trans-unit id="docx_s235" translate="yes">
+        <source>A response must be provided to continue with the survey in both the Alternate NGES link and in the Portal using a SAC.</source>
+      </trans-unit>
+      <trans-unit id="docx_s236" translate="yes">
+        <source>Glossaire des termes	A-3</source>
+      </trans-unit>
+      <trans-unit id="docx_s237" translate="yes">
+        <source>Adult Basic Education (ABE)</source>
+      </trans-unit>
+      <trans-unit id="docx_s238" translate="yes">
+        <source>See High School Equivalency Program</source>
+      </trans-unit>
+      <trans-unit id="docx_s239" translate="yes">
+        <source>CEGEP (Collège d’enseignement général et professionnel)</source>
+      </trans-unit>
+      <trans-unit id="docx_s240" translate="yes">
+        <source>Also written cégep, CÉGEP and cegep.</source>
+      </trans-unit>
+      <trans-unit id="docx_s241" translate="yes">
+        <source>A publicly funded college providing technical, academic, vocational or a mix of programs; exclusive to the province of Quebec’s education system.</source>
+      </trans-unit>
+      <trans-unit id="docx_s242" translate="yes">
+        <source>Confidentiel Information</source>
+      </trans-unit>
+      <trans-unit id="docx_s243" translate="yes">
+        <source>This is a term used within Statistics Canada to describe information that is subject to the secrecy provisions of the Statistics Act.</source>
+      </trans-unit>
+      <trans-unit id="docx_s244" translate="yes">
+        <source>Information is deemed confidential either because it directly identifies a responding unit, for example, by name, or because it could permit specific responding units to be identified, even when the data is stripped of identifiers, due to the information’s detail or its geographical structure or format.</source>
+      </trans-unit>
+      <trans-unit id="docx_s245" translate="yes">
+        <source>Confidentiality</source>
+      </trans-unit>
+      <trans-unit id="docx_s246" translate="yes">
+        <source>Confidentiality denotes an implied trust relationship between the person providing the information and the individual or organization collecting it.</source>
+      </trans-unit>
+      <trans-unit id="docx_s247" translate="yes">
+        <source>This relationship is built on the assurance that the information will not be disclosed without the person’s permission.</source>
+      </trans-unit>
+      <trans-unit id="docx_s248" translate="yes">
+        <source>Under the Statistics Act, information that would identify an individual, business or institution cannot be disclosed without their knowledge or consent.</source>
+      </trans-unit>
+      <trans-unit id="docx_s249" translate="yes">
+        <source>Observations and measurements collected during a survey, census or other study.</source>
+      </trans-unit>
+      <trans-unit id="docx_s250" translate="yes">
+        <source>Facts or figures from which conclusions can be drawn.</source>
+      </trans-unit>
+      <trans-unit id="docx_s251" translate="yes">
+        <source>Data Literacy</source>
+      </trans-unit>
+      <trans-unit id="docx_s252" translate="yes">
+        <source>Data literacy is the ability to derive meaningful information from data.</source>
+      </trans-unit>
+      <trans-unit id="docx_s253" translate="yes">
+        <source>It focuses on the competencies involved in working with data including the knowledge and skills to read, analyze, interpret, visualize and communicate data as well as understand the use of data in decision-making.</source>
+      </trans-unit>
+      <trans-unit id="docx_s254" translate="yes">
+        <source>Electronic Questionnaire</source>
+      </trans-unit>
+      <trans-unit id="docx_s255" translate="yes">
+        <source>An electronic questionnaire (EQ) is a series of questions to gather data about a target population, conducted through a web-based application.</source>
+      </trans-unit>
+      <trans-unit id="docx_s256" translate="yes">
+        <source>Frame</source>
+      </trans-unit>
+      <trans-unit id="docx_s257" translate="yes">
+        <source>A list, map, or conceptual specification of the units comprising the survey population from which persons can be selected.</source>
+      </trans-unit>
+      <trans-unit id="docx_s258" translate="yes">
+        <source>For example, a telephone or city directory, or a list of members of a particular association or group.</source>
+      </trans-unit>
+      <trans-unit id="docx_s259" translate="yes">
+        <source>General Educational Development (GED)</source>
+      </trans-unit>
+      <trans-unit id="docx_s260" translate="yes">
+        <source>See High School Equivalency Program</source>
+      </trans-unit>
+      <trans-unit id="docx_s261" translate="yes">
+        <source>Hamlet</source>
+      </trans-unit>
+      <trans-unit id="docx_s262" translate="yes">
+        <source>A municipal corporation in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s263" translate="yes">
+        <source>A municipality is similarly an “area within the boundaries of a hamlet, as described in the order establishing or continuing the hamlet.” All of Nunavut’s 25 municipalities are hamlets except for the City of Iqaluit, which is the territory’s capital.</source>
+      </trans-unit>
+      <trans-unit id="docx_s264" translate="yes">
+        <source>High School Equivalency Program</source>
+      </trans-unit>
+      <trans-unit id="docx_s265" translate="yes">
+        <source>A program for adults to complete high school.</source>
+      </trans-unit>
+      <trans-unit id="docx_s266" translate="yes">
+        <source>Successful completion demonstrates that they have acquired the knowledge and skills associated with and comparable to high school completion.</source>
+      </trans-unit>
+      <trans-unit id="docx_s267" translate="yes">
+        <source>Examples of such programs are General Educational Development (GED) and Adult Basic Education (ABE).</source>
+      </trans-unit>
+      <trans-unit id="docx_s268" translate="yes">
+        <source>Does not include a college or university preparatory program which results in admittance to a postsecondary program, but not a high school equivalency diploma or certificate.</source>
+      </trans-unit>
+      <trans-unit id="docx_s269" translate="yes">
+        <source>Interview time</source>
+      </trans-unit>
+      <trans-unit id="docx_s270" translate="yes">
+        <source>The ‘interview time’ is the actual amount of time that a data collection clerk will be completing the questionnaire with the respondent or that the respondent will be engaged in completing the electronic questionnaire.</source>
+      </trans-unit>
+      <trans-unit id="docx_s271" translate="yes">
+        <source>Means “people” in Inuktitut, the language of Inuit people.</source>
+      </trans-unit>
+      <trans-unit id="docx_s272" translate="yes">
+        <source>Most Inuit live in the Northwest Territories, Nunavut, Northern Quebec and Labrador.</source>
+      </trans-unit>
+      <trans-unit id="docx_s273" translate="yes">
+        <source>Inuit Employment Plans (IEP)</source>
+      </trans-unit>
+      <trans-unit id="docx_s274" translate="yes">
+        <source>As per Article 23 of the Nunavut Agreement, section 23.4.1., an Inuit Employment Plan is a plan to increase and maintain the employment of Inuit in government at a representative level.</source>
+      </trans-unit>
+      <trans-unit id="docx_s275" translate="yes">
+        <source>Inuit Societal Values (ISV)</source>
+      </trans-unit>
+      <trans-unit id="docx_s276" translate="yes">
+        <source>Set of values which have been committed to by the Government of Nunavut (GN), and provide the foundation from which the GN will work:</source>
+      </trans-unit>
+      <trans-unit id="docx_s277" translate="yes">
+        <source>Inuuqatigiitsiarniq (respecting others, relationships and caring for people);</source>
+      </trans-unit>
+      <trans-unit id="docx_s278" translate="yes">
+        <source>Tunnganarniq (fostering good spirit by being open, welcoming and inclusive);</source>
+      </trans-unit>
+      <trans-unit id="docx_s279" translate="yes">
+        <source>Pijitsirniq (serving and providing for family or community, or both);</source>
+      </trans-unit>
+      <trans-unit id="docx_s280" translate="yes">
+        <source>Aajiiqatigiinniq (decision making through discussion and consensus);</source>
+      </trans-unit>
+      <trans-unit id="docx_s281" translate="yes">
+        <source>Pilimmaksarniq or Pijariuqsarniq (development of skills through practice, effort and action);</source>
+      </trans-unit>
+      <trans-unit id="docx_s282" translate="yes">
+        <source>Piliriqatigiinniq or Ikajuqtigiinniq (working together for a common cause);</source>
+      </trans-unit>
+      <trans-unit id="docx_s283" translate="yes">
+        <source>Qanuqtuurniq (being innovative and resourceful); and</source>
+      </trans-unit>
+      <trans-unit id="docx_s284" translate="yes">
+        <source>Avatittinnik Kamatsiarniq (respect and care for the land, animals and the environment).</source>
+      </trans-unit>
+      <trans-unit id="docx_s285" translate="yes">
+        <source>Inuinnaqtun is a member of the Inuit language family, considered the Central Arctic form of Inuktitut as spoken by the Inuinnait or Copper Inuit people.</source>
+      </trans-unit>
+      <trans-unit id="docx_s286" translate="yes">
+        <source>Inuinnaqtun is also recognized as an official language of Nunavut, where it is spoken in the western Kitikmeot (Central Arctic communities of Cambridge Bay, Kugluktuk, and Gjoa Haven).</source>
+      </trans-unit>
+      <trans-unit id="docx_s287" translate="yes">
+        <source>Inuinnaqtun is written in Roman orthography.</source>
+      </trans-unit>
+      <trans-unit id="docx_s288" translate="yes">
+        <source>The singular form of the word Inuit (i.e., a person).</source>
+      </trans-unit>
+      <trans-unit id="docx_s289" translate="yes">
+        <source>Inuit language written with indigenous syllabics and spoken in the northern parts of the provinces of Labrador and Quebec, as well as in Nunavut and Northwest Territories.</source>
+      </trans-unit>
+      <trans-unit id="docx_s290" translate="yes">
+        <source>It is recognised as an official language in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s291" translate="yes">
+        <source>Land Claims Beneficiary / Enrolled under a Land Claims Agreement /</source>
+      </trans-unit>
+      <trans-unit id="docx_s292" translate="yes">
+        <source>An Inuk person on the enrolment list of one of the four Inuit land claims regions (see below).</source>
+      </trans-unit>
+      <trans-unit id="docx_s293" translate="yes">
+        <source>This person is entitled to the benefits outlined within each specific Land Claims Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s294" translate="yes">
+        <source>Inuvialuit Final Agreement</source>
+      </trans-unit>
+      <trans-unit id="docx_s295" translate="yes">
+        <source>An agreement that came into effect on July 25, 1984 and was the first land claims agreement settled in the NWT.</source>
+      </trans-unit>
+      <trans-unit id="docx_s296" translate="yes">
+        <source>The agreement defines the Inuvialuit Settlement Region (ISR), which covers approximately 435,000 square kilometres in the Mackenzie Delta, Beaufort Sea, and Amundsen Gulf area and includes a part of Yukon.</source>
+      </trans-unit>
+      <trans-unit id="docx_s297" translate="yes">
+        <source>Nunavut Agreement (Nunavut Land Claims Agreement)</source>
+      </trans-unit>
+      <trans-unit id="docx_s298" translate="yes">
+        <source>Signed on May 25, 1993 by representatives of the Tunngavik Federation of Nunavut (now Nunavut Tunngavik Incorporated), the Government of Canada and the Government of the Northwest Territories.</source>
+      </trans-unit>
+      <trans-unit id="docx_s299" translate="yes">
+        <source>This agreement gave the Inuit of the central and eastern Northwest Territories a separate territory called Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s300" translate="yes">
+        <source>It is the largest Aboriginal land claim settlement in Canadian history.</source>
+      </trans-unit>
+      <trans-unit id="docx_s301" translate="yes">
+        <source>James Bay and Northern Quebec Agreement (Nunavik)</source>
+      </trans-unit>
+      <trans-unit id="docx_s302" translate="yes">
+        <source>An agreement that addresses the use, management and ownership of land and resources in James Bay, Hudson Bay, Hudson Strait and Ungava Bay, as well as a portion of northern Labrador and an offshore area adjacent to Labrador.</source>
+      </trans-unit>
+      <trans-unit id="docx_s303" translate="yes">
+        <source>The agreement was ratified on December 1, 2006.</source>
+      </trans-unit>
+      <trans-unit id="docx_s304" translate="yes">
+        <source>It came into effect on February 14, 2008.</source>
+      </trans-unit>
+      <trans-unit id="docx_s305" translate="yes">
+        <source>Labrador Inuit Land Claims Agreement (Nunatsiavut)</source>
+      </trans-unit>
+      <trans-unit id="docx_s306" translate="yes">
+        <source>An agreement that serves as a modern-day treaty between the Inuit of Labrador, the Province of Newfoundland and Labrador and Canada.</source>
+      </trans-unit>
+      <trans-unit id="docx_s307" translate="yes">
+        <source>The Agreement addresses land use, management and ownership of resources of regions in Northern Labrador.</source>
+      </trans-unit>
+      <trans-unit id="docx_s308" translate="yes">
+        <source>The agreement was signed in January 2005 and came into effect in December 2005.</source>
+      </trans-unit>
+      <trans-unit id="docx_s309" translate="yes">
+        <source>Margin of error</source>
+      </trans-unit>
+      <trans-unit id="docx_s310" translate="yes">
+        <source>In a sample survey, results from the sample are used to estimate what the findings would be if the whole population were to be measured.</source>
+      </trans-unit>
+      <trans-unit id="docx_s311" translate="yes">
+        <source>In this process of estimation, some level of error is inevitable.</source>
+      </trans-unit>
+      <trans-unit id="docx_s312" translate="yes">
+        <source>The margin of error, a measure used to build confidence intervals, serves as a rough indicator of the precision of an estimate.</source>
+      </trans-unit>
+      <trans-unit id="docx_s313" translate="yes">
+        <source>For example, pollsters often say that a certain percentage of the population, plus or minus the margin of error (expressed in percentage points), is likely to vote for a certain candidate, 19 times out of 20.</source>
+      </trans-unit>
+      <trans-unit id="docx_s314" translate="yes">
+        <source>To calculate the margin of error, which in this example corresponds to a 95% confidence interval, the pollster would use the equivalent of plus or minus two standard errors of the estimate (see Standard error).</source>
+      </trans-unit>
+      <trans-unit id="docx_s315" translate="yes">
+        <source>Master IEP (GN-wide IEP)</source>
+      </trans-unit>
+      <trans-unit id="docx_s316" translate="yes">
+        <source>For the Government of Nunavut (GN), the Master Inuit Employment Plan (Master IEP) provides strategic direction for GN-wide programs and initiatives to increase and enhance Inuit employment.</source>
+      </trans-unit>
+      <trans-unit id="docx_s317" translate="yes">
+        <source>It informs departmental IEPs and provides support and guidance for their coordinated implementation.</source>
+      </trans-unit>
+      <trans-unit id="docx_s318" translate="yes">
+        <source>Detailed departmental IEPs take their direction from the Master IEP in order to address specific departmental issues and opportunities in Inuit employment, set out numerical Inuit employment targets, and identify specific departmental actions to increase and enhance Inuit employment.</source>
+      </trans-unit>
+      <trans-unit id="docx_s319" translate="yes">
+        <source>A set of research methods and techniques applied to a particular field of study.</source>
+      </trans-unit>
+      <trans-unit id="docx_s320" translate="yes">
+        <source>At Statistics Canada, methodology refers to survey methodology.</source>
+      </trans-unit>
+      <trans-unit id="docx_s321" translate="yes">
+        <source>Micro credential</source>
+      </trans-unit>
+      <trans-unit id="docx_s322" translate="yes">
+        <source>A short program consisting of a handful of courses in a subject area generally considered a lower credential than a certificate.</source>
+      </trans-unit>
+      <trans-unit id="docx_s323" translate="yes">
+        <source>Files of records pertaining to individual responding units.</source>
+      </trans-unit>
+      <trans-unit id="docx_s324" translate="yes">
+        <source>NILFA</source>
+      </trans-unit>
+      <trans-unit id="docx_s325" translate="yes">
+        <source>The NILFA refers to the Nunavut Inuit Labour Force Analysis and is an obligation under Article 23 of the Nunavut Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s326" translate="yes">
+        <source>The NILFA is focused on analyzing the interest, availability and preparedness for government employment of Inuit enrolled under the Nunavut Agreement.</source>
+      </trans-unit>
+      <trans-unit id="docx_s327" translate="yes">
+        <source>The first NILFA Report was completed in 2018.</source>
+      </trans-unit>
+      <trans-unit id="docx_s328" translate="yes">
+        <source>NTI</source>
+      </trans-unit>
+      <trans-unit id="docx_s329" translate="yes">
+        <source>NTI refers to Nunavut Tunngavik Incorporated, the organization representing Inuit enrolled under the Nunavut Agreement and ensuring the legal obligations of the Article 23 of the Nunavut Agreement are being upheld by the Government of Nunavut and the Government of Canada.</source>
+      </trans-unit>
+      <trans-unit id="docx_s330" translate="yes">
+        <source>The term means “our land is our future.” This Nunavut postsecondary education program is dedicated to providing Inuit youth with academic as well as cultural learning experiences.</source>
+      </trans-unit>
+      <trans-unit id="docx_s331" translate="yes">
+        <source>Partner</source>
+      </trans-unit>
+      <trans-unit id="docx_s332" translate="yes">
+        <source>Refers to two people of the opposite sex or of the same sex, who live together as a couple, but who are not legally married.</source>
+      </trans-unit>
+      <trans-unit id="docx_s333" translate="yes">
+        <source>Pre-employment training plan</source>
+      </trans-unit>
+      <trans-unit id="docx_s334" translate="yes">
+        <source>As per Article 23 of the Nunavut Agreement, section 23.5.1., a pre-employment training plan is a plan to provide training to persons not employed by Government in anticipation of government employment.</source>
+      </trans-unit>
+      <trans-unit id="docx_s335" translate="yes">
+        <source>For the purpose of the 2026 Nunavut Government Employee Survey, a promotion means a higher-level job with more responsibilities, or a move from a casual, relief or substitute teacher position to a term or indeterminate position.</source>
+      </trans-unit>
+      <trans-unit id="docx_s336" translate="yes">
+        <source>Respondent Electronic Questionnaire (rEQ)</source>
+      </trans-unit>
+      <trans-unit id="docx_s337" translate="yes">
+        <source>A data collection method where respondents complete the questionnaire online.</source>
+      </trans-unit>
+      <trans-unit id="docx_s338" translate="yes">
+        <source>Internet-based electronic questionnaire which is answered directly online using a secure access code.</source>
+      </trans-unit>
+      <trans-unit id="docx_s339" translate="yes">
+        <source>Respondent, Responding Unit</source>
+      </trans-unit>
+      <trans-unit id="docx_s340" translate="yes">
+        <source>The respondent is the person providing the information for the surveyed unit, which could be a person, household, business, or institution.</source>
+      </trans-unit>
+      <trans-unit id="docx_s341" translate="yes">
+        <source>In the case of the 2026 Nunavut Government Employee Survey, in general, the respondent is a current Government of Nunavut (GN) and Government of Canada (GC) employee working in Nunavut during survey collection.</source>
+      </trans-unit>
+      <trans-unit id="docx_s342" translate="yes">
+        <source>Respondent’s length of time to complete the survey</source>
+      </trans-unit>
+      <trans-unit id="docx_s343" translate="yes">
+        <source>A ‘respondent’s length of time to complete the survey’ can be different from the ‘interview time’.</source>
+      </trans-unit>
+      <trans-unit id="docx_s344" translate="yes">
+        <source>It is the investment of time a respondent will need to make to complete a survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s345" translate="yes">
+        <source>For business surveys this can include the time that a respondent will spend gathering documents, such as financial records, in order to complete a survey.</source>
+      </trans-unit>
+      <trans-unit id="docx_s346" translate="yes">
+        <source>Examples of where this would apply to social surveys is when a respondent would have to keep a diary for a survey, have to go to a clinic, or possibly keep track of receipts or spending.</source>
+      </trans-unit>
+      <trans-unit id="docx_s347" translate="yes">
+        <source>Sampling</source>
+      </trans-unit>
+      <trans-unit id="docx_s348" translate="yes">
+        <source>A means of selecting a subset of units from a target population for the purpose of collecting information.</source>
+      </trans-unit>
+      <trans-unit id="docx_s349" translate="yes">
+        <source>This information is used to draw inferences about the population as a whole.</source>
+      </trans-unit>
+      <trans-unit id="docx_s350" translate="yes">
+        <source>In the case of the 2026 Nunavut Government Employee Survey, the sample is 7,500.</source>
+      </trans-unit>
+      <trans-unit id="docx_s351" translate="yes">
+        <source>Staff Housing</source>
+      </trans-unit>
+      <trans-unit id="docx_s352" translate="yes">
+        <source>Employer-provided housing for employees that assists in recruitment and retention of staff.</source>
+      </trans-unit>
+      <trans-unit id="docx_s353" translate="yes">
+        <source>This can include housing at subsidized rates.</source>
+      </trans-unit>
+      <trans-unit id="docx_s354" translate="yes">
+        <source>Whole-of-Government IEP</source>
+      </trans-unit>
+      <trans-unit id="docx_s355" translate="yes">
+        <source>For the Government of Canada, the Whole-of-Government IEP outlines how the nine federal departments and agencies with Article 23 obligations will attain their short- and medium-term targets, and work towards long-term goals over the period spanning 2023-2033, through initiatives that move the Government of Canada towards the ultimate objective of realizing a fully representative workforce in Nunavut.</source>
+      </trans-unit>
+      <trans-unit id="docx_s356" translate="yes">
+        <source>Individual departmental plans provide details as to their unique barriers and strategies and will complement the broader scope of the Whole-of-Government IEP.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
