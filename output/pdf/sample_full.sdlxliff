@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" version="1.2">
+  <file original="/Users/wb/Documents/projects/Trados_Localization_Automation/input/sample.pdf" datatype="x-sdlfilterframework2" source-language="en-CA" target-language="fr-CA">
+    <body>
+      <trans-unit id="p1_s1" translate="yes">
+        <source>APOSTIL 
+(Haagsky dohovor z 5. okt6bra 1961) 
+1.</source>
+      </trans-unit>
+      <trans-unit id="p1_s2" translate="yes">
+        <source>Stat: Kanada 
+Tento verejny dokument 
+2.</source>
+      </trans-unit>
+      <trans-unit id="p1_s3" translate="yes">
+        <source>Bol podpfsany osobou: Jennifer Gates-Flaherty 
+3.</source>
+      </trans-unit>
+      <trans-unit id="p1_s4" translate="yes">
+        <source>Konajucej vo funkcii: Generalny riaditer 
+4.</source>
+      </trans-unit>
+      <trans-unit id="p1_s5" translate="yes">
+        <source>Drziter pee ate: RCMP 
+Overene 
+5.</source>
+      </trans-unit>
+      <trans-unit id="p1_s6" translate="yes">
+        <source>V: Ottawa, Kanada 
+6.</source>
+      </trans-unit>
+      <trans-unit id="p1_s7" translate="yes">
+        <source>26. juna, 2025 
+7.</source>
+      </trans-unit>
+      <trans-unit id="p1_s8" translate="yes">
+        <source>Zastupcom Ministra zahranicnych vecf 
+8.</source>
+      </trans-unit>
+      <trans-unit id="p1_s9" translate="yes">
+        <source>Cfslo: CA-25-030843-743525-5 
+9.</source>
+      </trans-unit>
+      <trans-unit id="p1_s10" translate="yes">
+        <source>Pecaf 
+10.</source>
+      </trans-unit>
+      <trans-unit id="p1_s11" translate="yes">
+        <source>Podpis 
+Nancy Vasquez Estrada, Overovacf uradnfk 
+[Pecat Ministerstva zahranicnych vecf] 
+Poznamky 
+Tento Apostil potvrdzuje iba pod pis, funkciu podpisovatera a tam kde je to vhodne, pecat alebo 
+peciatku, ktoru ma.</source>
+      </trans-unit>
+      <trans-unit id="p1_s12" translate="yes">
+        <source>Neosvedcuje obsah dokladu, na ktor)l bol vydany.</source>
+      </trans-unit>
+      <trans-unit id="p1_s13" translate="yes">
+        <source>Tento Apostil nie je platny na pouzitie kdekorvek v Kana de.</source>
+      </trans-unit>
+      <trans-unit id="p1_s14" translate="yes">
+        <source>Ak sa tento dokument ma pouzitv krajine, ktora nie je zmluvnou stranou Haagskeho dohovoru z 5. 
+okt6bra 1961 ' maze byt potrebne legalizovat ho konzularnym uradom krajiny urcenia.</source>
+      </trans-unit>
+      <trans-unit id="p1_s15" translate="yes">
+        <source>Ak si chcete overit vydanie tohto Apostilu, obratte sa na webovu stranku 
+https:/ I apostille.canada.ca/en/eregister-eregistre 
+Fox Translations Ltd. 
+1 897 Baseline Rd., Suite 301 
+Ottawa, Ontario, K2C OC7 
+CERTIFIE~D
+~ U~ 
+TRA~LATION 
+Translator's Name: 
+------'--~ ~9 
+')( 
+Authorized Signature: 
+L~,___',..£:'-: ... 
+::::;,..:.t,.__ ___ _ 
+Date: 
+"lv..\..7 .,1_ .11 d...o j_ ~</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

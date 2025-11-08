@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <xliff xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" version="1.2">
-  <file original="../input/sample.docx" datatype="x-sdlfilterframework2" source-language="en-US" target-language="en-US">
+  <file original="../input/sample.docx" datatype="x-sdlfilterframework2" source-language="en-CA" target-language="fr-CA">
     <body>
       <trans-unit id="docx_s1" translate="yes">
         <source>SAC but are part of the target population (once validated by the CATI interviewer using the validation procedures.</source>

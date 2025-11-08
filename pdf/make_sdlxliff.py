@@ -5,7 +5,7 @@ SDL_NS = "http://sdl.com/FileTypes/SdlXliff/1.0"
 NSMAP = {"sdl": SDL_NS}
 
 
-def build_sdlxliff(sentences, output_path, original_filename):
+def build_sdlxliff(segments, output_path, original_filename, translatable=True):
     # Create output directory if it doesn't exist
     output_dir = os.path.dirname(output_path)
     if output_dir:
@@ -16,21 +16,18 @@ def build_sdlxliff(sentences, output_path, original_filename):
         "file",
         original=original_filename,
         datatype="x-sdlfilterframework2",
-        **{"source-language": "en-CA", "target-language": "fr-CA"},
+        **{"source-language": "en-CA", "target-language": "fr-CA"}
     )
     body = etree.SubElement(file_el, "body")
 
-    for idx, text in enumerate(sentences, start=1):
-        seg_id = f"docx_s{idx}"
-
+    for seg_id, text in segments:
         tu = etree.SubElement(
-            body, "trans-unit", id=seg_id, translate="yes"
-        )  # translatable
+            body, "trans-unit", id=seg_id, translate="yes" if translatable else "no"
+        )
 
         src = etree.SubElement(tu, "source")
         src.text = text
 
-    tree = etree.ElementTree(root)
-    tree.write(output_path, pretty_print=True, encoding="utf-8", xml_declaration=True)
-
-    print(f"SDLXLIFF written → {output_path}")
+    etree.ElementTree(root).write(
+        output_path, pretty_print=True, encoding="utf-8", xml_declaration=True
+    )

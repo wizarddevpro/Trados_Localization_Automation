@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns:sdl="http://sdl.com/FileTypes/SdlXliff/1.0" version="1.2">
+  <file original="/Users/wb/Documents/projects/Trados_Localization_Automation/input/sample.xlsx" datatype="x-sdlfilterframework2" source-language="en-CA" target-language="fr-CA">
+    <body>
+      <trans-unit id="xls_r2" translate="yes">
+        <source>=(LEN(D5)-LEN(SUBSTITUTE(D5," ",""))+1)+(LEN(D6)-LEN(SUBSTITUTE(D6," ",""))+1)+(LEN(D7)-LEN(SUBSTITUTE(D7," ",""))+1)+(LEN(D8)-LEN(SUBSTITUTE(D8," ",""))+1)+(LEN(D9)-LEN(SUBSTITUTE(D9," ",""))+1)+(LEN(D10)-LEN(SUBSTITUTE(D10," ",""))+1)</source>
+      </trans-unit>
+      <trans-unit id="xls_r4" translate="yes">
+        <source>Rapports originaux</source>
+      </trans-unit>
+      <trans-unit id="xls_r5" translate="yes">
+        <source>Seat Belt Rivet
+While conducting slinging operation, the reporter was hovering over the flight deck with an external load and about to place it strategically away from the landing area and upon doing so, they felt their seat belt prematurely release.
+
+They continued with placing the load on the deck and releasing it and proceed with a circuit to gain time to further investigate. They found that the spring load release had failed via a rivet. This rivet was holding the mechanism together.
+
+An SDR has been raised and an urgent Campaign Notice to inspect all the B429 seat belt should be broadcast early next week. (CN 431-25-00-035)
+
+Note: Upon review of the remaining belts in the aircraft, it was discovered that a second buckle had the same issue and has been entered into the database ID 11196. This report will be added as a sub-report to the ID 11193 investigation.</source>
+      </trans-unit>
+      <trans-unit id="xls_r6" translate="yes">
+        <source>Unleashed Animal Hazard
+Upon shutting down on the helipad at the Light Station, the lightkeepers’ large dog ran under open doors, the tailboom and all around the aircraft. The pilot and passengers were unloading cargo, and an unleashed dog is a hazard to crew and the aircraft.</source>
+      </trans-unit>
+      <trans-unit id="xls_r7" translate="yes">
+        <source>ForeFlight Syncing (EFB)
+The pilot made the appropriate preparations on ForeFlight the evening before a mission and double checked for possible updates. Foreflight was used during the start phase (checklists) and all app usage was normal. Once enroute, the map image went blurry and there was no map data available. Flight information (airspeed alt, heading etc...) was available. Upon arrival at destination the maps began to refresh again, and it was noted that cellular data was enabling the map image.
+The hazard is that a user can check their device/app "downloads" and it will appear to be complete and updated, yet in the background there may be an issue not flagged to the user and that map image may be lost in flight. For updating, the reporter was relying solely on the red, downloads notification in the bottom right-hand corner, and updating on that notification only.
+
+Further investigation determined the latest Foreflight update has introduced the hazard. The Canada Regional settings had been automatically “deselected” on the aircraft iPad thus not showing any need to update any files.
+
+Pilots should ensure that their iPad and all aircraft iPads have Canada selected under More-Download-Data setting in Foreflight</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

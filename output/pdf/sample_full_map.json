@@ -1,0 +1,96 @@
+{
+    "source_file": "/Users/wb/Documents/projects/Trados_Localization_Automation/input/sample.pdf",
+    "scope": "full_text",
+    "segments": [
+        {
+            "seg_id": "p1_s1",
+            "page": 1,
+            "section": null,
+            "text_preview": "APOSTIL \n(Haagsky dohovor z 5. okt6bra 1961) \n1."
+        },
+        {
+            "seg_id": "p1_s2",
+            "page": 1,
+            "section": null,
+            "text_preview": "Stat: Kanada \nTento verejny dokument \n2."
+        },
+        {
+            "seg_id": "p1_s3",
+            "page": 1,
+            "section": null,
+            "text_preview": "Bol podpfsany osobou: Jennifer Gates-Flaherty \n3."
+        },
+        {
+            "seg_id": "p1_s4",
+            "page": 1,
+            "section": null,
+            "text_preview": "Konajucej vo funkcii: Generalny riaditer \n4."
+        },
+        {
+            "seg_id": "p1_s5",
+            "page": 1,
+            "section": null,
+            "text_preview": "Drziter pee ate: RCMP \nOverene \n5."
+        },
+        {
+            "seg_id": "p1_s6",
+            "page": 1,
+            "section": null,
+            "text_preview": "V: Ottawa, Kanada \n6."
+        },
+        {
+            "seg_id": "p1_s7",
+            "page": 1,
+            "section": null,
+            "text_preview": "26. juna, 2025 \n7."
+        },
+        {
+            "seg_id": "p1_s8",
+            "page": 1,
+            "section": null,
+            "text_preview": "Zastupcom Ministra zahranicnych vecf \n8."
+        },
+        {
+            "seg_id": "p1_s9",
+            "page": 1,
+            "section": null,
+            "text_preview": "Cfslo: CA-25-030843-743525-5 \n9."
+        },
+        {
+            "seg_id": "p1_s10",
+            "page": 1,
+            "section": null,
+            "text_preview": "Pecaf \n10."
+        },
+        {
+            "seg_id": "p1_s11",
+            "page": 1,
+            "section": null,
+            "text_preview": "Podpis \nNancy Vasquez Estrada, Overovacf uradnfk \n[Pecat Min"
+        },
+        {
+            "seg_id": "p1_s12",
+            "page": 1,
+            "section": null,
+            "text_preview": "Neosvedcuje obsah dokladu, na ktor)l bol vydany."
+        },
+        {
+            "seg_id": "p1_s13",
+            "page": 1,
+            "section": null,
+            "text_preview": "Tento Apostil nie je platny na pouzitie kdekorvek v Kana de."
+        },
+        {
+            "seg_id": "p1_s14",
+            "page": 1,
+            "section": null,
+            "text_preview": "Ak sa tento dokument ma pouzitv krajine, ktora nie je zmluvn"
+        },
+        {
+            "seg_id": "p1_s15",
+            "page": 1,
+            "section": null,
+            "text_preview": "Ak si chcete overit vydanie tohto Apostilu, obratte sa na we"
+        }
+    ]
+}
